@@ -1,3 +1,7 @@
+# DEPRECATED, MOVED [HERE](https://github.com/biozz/qmk_firmware/tree/add_via_keymap_to_winry25tc/keyboards/winry/winry25tc/keymaps/via) TO MY `qmk_firmware` FORK
+
+---
+
 # SpiderIsland 25-key RGB Backlight Hot Swap Mechanical Keyboard
 
 This is a reupload of a failed pull request by user Jereksel, I did not develop this configuration.

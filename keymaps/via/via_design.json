@@ -1,7 +1,7 @@
 {
     "name": "SpiderIsland WinRY25TC",
-    "vendorId": "0x03EB",
-    "productId": "0x2FF4",
+    "vendorId": "0",
+    "productId": "0",
     "keycodes": ["qmk_lighting"],
     "menus": ["qmk_backlight_rgblight"],
     "matrix": {"rows": 5, "cols": 5},
